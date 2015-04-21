@@ -27,6 +27,4 @@ MTproto protocol manuals: http://core.hermes.org/mtproto
 First of all, take a look at **src/main/java/org/hermes/messenger/BuildVars.java** and fill it with correct values.
 Import the root folder into your IDE (tested on Android Studio), then run project.
 
-### Localization
 
-We moved all translations to https://www.transifex.com/projects/p/hermes/. Please use it.
